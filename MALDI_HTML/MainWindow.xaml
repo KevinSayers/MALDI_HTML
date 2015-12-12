@@ -1,0 +1,22 @@
+﻿<Window x:Name="MALDI_HTML" x:Class="MALDI_HTML.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MALDI_HTML"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="444.118" Width="1159.042">
+    <Grid>
+        <Button x:Name="Browse" Content="Browse" HorizontalAlignment="Left" Margin="551,20,0,0" VerticalAlignment="Top" Width="75" Height="30" Click="Browse_Click"/>
+        <TextBox x:Name="fileinbox" HorizontalAlignment="Left" Height="30" Margin="163,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="375"/>
+        <ListBox x:Name="datalist" HorizontalAlignment="Left" Height="214" Margin="163,85,0,0" VerticalAlignment="Top" Width="463"/>
+        <Button x:Name="add" Content="Add Spectra" HorizontalAlignment="Left" Height="30" Margin="338,55,0,0" VerticalAlignment="Top" Width="92" Click="add_Click"/>
+        <Button x:Name="createhtml" Content="Create HTML File" HorizontalAlignment="Left" Height="32" Margin="321,352,0,0" VerticalAlignment="Top" Width="150" Click="createhtml_Click"/>
+        <Label x:Name="label" Content="Spectra file input:" HorizontalAlignment="Left" Height="30" Margin="56,20,0,0" VerticalAlignment="Top" Width="102"/>
+        <TextBox x:Name="outfile" HorizontalAlignment="Left" Height="32" Margin="163,315,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="375"/>
+        <Button x:Name="saveas" Content="Save As" HorizontalAlignment="Left" Margin="551,317,0,0" VerticalAlignment="Top" Width="75" Height="30"/>
+        <Label x:Name="label1" Content="Output file:" HorizontalAlignment="Left" Margin="88,317,0,0" VerticalAlignment="Top" Height="30"/>
+        <ListBox x:Name="testbox" HorizontalAlignment="Left" Height="100" Margin="686,96,0,0" VerticalAlignment="Top" Width="411"/>
+
+    </Grid>
+</Window>
