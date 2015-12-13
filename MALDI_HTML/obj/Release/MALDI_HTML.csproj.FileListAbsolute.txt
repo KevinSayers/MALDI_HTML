@@ -1,0 +1,13 @@
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\MALDI_HTML\MALDI_HTML\bin\Release\MALDI_HTML.exe.config
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\MALDI_HTML\MALDI_HTML\bin\Release\MALDI_HTML.exe
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\MALDI_HTML\MALDI_HTML\bin\Release\MALDI_HTML.pdb
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\MALDI_HTML\MALDI_HTML\obj\Release\MainWindow.g.cs
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\MALDI_HTML\MALDI_HTML\obj\Release\App.g.cs
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\MALDI_HTML\MALDI_HTML\obj\Release\MALDI_HTML_MarkupCompile.cache
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\MALDI_HTML\MALDI_HTML\obj\Release\MALDI_HTML_MarkupCompile.lref
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\MALDI_HTML\MALDI_HTML\obj\Release\MainWindow.baml
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\MALDI_HTML\MALDI_HTML\obj\Release\MALDI_HTML.g.resources
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\MALDI_HTML\MALDI_HTML\obj\Release\MALDI_HTML.Properties.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\MALDI_HTML\MALDI_HTML\obj\Release\MALDI_HTML.csproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\MALDI_HTML\MALDI_HTML\obj\Release\MALDI_HTML.exe
+C:\Users\kevin\Documents\Visual Studio 2015\Projects\MALDI_HTML\MALDI_HTML\obj\Release\MALDI_HTML.pdb

@@ -14,7 +14,7 @@
         <Button x:Name="createhtml" Content="Create HTML File" HorizontalAlignment="Left" Height="32" Margin="321,352,0,0" VerticalAlignment="Top" Width="150" Click="createhtml_Click"/>
         <Label x:Name="label" Content="Spectra file input:" HorizontalAlignment="Left" Height="30" Margin="56,20,0,0" VerticalAlignment="Top" Width="102"/>
         <TextBox x:Name="outfile" HorizontalAlignment="Left" Height="32" Margin="163,315,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="375"/>
-        <Button x:Name="saveas" Content="Save As" HorizontalAlignment="Left" Margin="551,317,0,0" VerticalAlignment="Top" Width="75" Height="30"/>
+        <Button x:Name="saveas" Content="Save As" HorizontalAlignment="Left" Margin="551,317,0,0" VerticalAlignment="Top" Width="75" Height="30" Click="saveas_Click"/>
         <Label x:Name="label1" Content="Output file:" HorizontalAlignment="Left" Margin="88,317,0,0" VerticalAlignment="Top" Height="30"/>
         <ListBox x:Name="testbox" HorizontalAlignment="Left" Height="100" Margin="686,96,0,0" VerticalAlignment="Top" Width="411"/>
 
